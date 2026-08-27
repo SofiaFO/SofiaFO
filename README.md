@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Sofia Ferreira de Oliveira
 
-I'm Sofia Ferreira de Oliveira, a Computer Science student at UNIFEI focused on designing scalable systems and solving real-world problems through software.
+I'm a Computer Science student at UNIFEI, passionate about designing scalable systems and solving real-world problems through software.
 
-I gained hands-on experience through a Junior Enterprise, contributing to real-world projects in collaborative environments. I’ve also participated in hackathons, further strengthening my problem-solving mindset and teamwork skills.
+I built my hands-on experience through a Junior Enterprise, where I contributed to real projects in collaborative, deadline-driven environments. I've also taken part in hackathons, which sharpened my problem-solving mindset and ability to work well under pressure as part of a team.
 
-Currently, I work as a Full-Stack Developer Intern, focusing on Java (Spring Boot) and Angular. I design RESTful APIs, microservices, and event-driven architectures using RabbitMQ and Kafka, contributing to a financial platform by developing resilient backend services and scalable solutions.
+Currently, I work as a Full-Stack Developer, building backend services with Java (Spring Boot) and frontend interfaces with Angular. My day-to-day involves designing RESTful APIs, microservices, and event-driven architectures with RabbitMQ and Kafka, contributing to a financial platform through resilient, scalable backend solutions.
 
 ---
 
